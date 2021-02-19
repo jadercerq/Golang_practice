@@ -1,14 +1,14 @@
-package main
+package cmd
 
 import (
 	"encoding/json"
 	"time"
 
-	"github.com/visibilidade/entity"
-	"github.com/visibilidade/logging"
+	"github.com/estudo/entity"
+	"github.com/estudo/logging"
 )
 
-func main() {
+func Start() {
 	logger()
 	ponteiro()
 	anonimo()
