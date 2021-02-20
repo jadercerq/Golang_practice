@@ -3,7 +3,7 @@ package cmd
 import (
 	"time"
 
-	"github.com/estudo/interface"
+	"github.com/estudo/implementacao"
 	"github.com/estudo/logging"
 )
 
