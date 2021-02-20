@@ -3,7 +3,7 @@ package oo
 import (
 	"encoding/json"
 
-	"github.com/estudo/entity"
+	"github.com/estudo/oo/entity"
 )
 
 func Impl() {

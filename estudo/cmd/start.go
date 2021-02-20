@@ -3,8 +3,8 @@ package cmd
 import (
 	"time"
 
-	"github.com/estudo/implementacao"
 	"github.com/estudo/logging"
+	"github.com/estudo/oo/implementacao"
 )
 
 func Start() {
